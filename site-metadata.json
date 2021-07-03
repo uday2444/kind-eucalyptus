@@ -3,7 +3,7 @@
     "palette": "red",
     "header": {
         "logo_img": "images/logo_1.JPG",
-        "logo_img_alt": "Logo", alt="logo" width="93" height="38" data-logowidth="93" class="dense-image dense-ready" style="width: 93px;"
+        "logo_img_alt": "Logo", 
         "has_nav": true,
         "nav_links": [
             {

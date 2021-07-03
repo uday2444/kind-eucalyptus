@@ -1,6 +1,6 @@
 {
     "base_font": "nunito-sans",
-    "palette": "blue",
+    "palette": "red",
     "header": {
         "logo_img": "images/logo_1.JPG",
         "logo_img_alt": "Logo",

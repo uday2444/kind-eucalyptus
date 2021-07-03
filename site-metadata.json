@@ -3,7 +3,7 @@
     "palette": "red",
     "header": {
         "logo_img": "images/logo_1.JPG",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Logo", 
         "has_nav": true,
         "nav_links": [
             {

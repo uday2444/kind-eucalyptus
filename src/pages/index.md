@@ -5,9 +5,15 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: |
+      Define: -
+      State or describe exactly the nature, scope, or me aiming of
+
+      Excel: - Be
+      exceptionally good at or proficient in an activity or subject 
+
+      Accelerate: -
+      Begin to move more quickly 
     actions:
       - label: Learn More
         url: /features

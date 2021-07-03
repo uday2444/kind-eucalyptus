@@ -4,7 +4,6 @@
     "header": {
         "logo_img": "images/trust_logo.JPG",
         "logo_img_alt": "Logo",
-        width: 400, height: 400
         "has_nav": true,
         "nav_links": [
             {

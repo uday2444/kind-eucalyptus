@@ -12,7 +12,7 @@ export default class Header extends React.Component {
                 <div className="site-header-inside">
                   <div className="site-branding">
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null) && (
-                    <p className="site-logo"><Link to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img_alt', null)} /></Link></p>
+                    <p className="site-logo"><Link to={withPrefix('/')}><img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', alt="logo" width="93" height="38" data-logowidth="93" class="dense-image dense-ready" style="width: 93px;"null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img_alt', null)} /></Link></p>
                     )}
                     {((_.get(this.props, 'pageContext.frontmatter.template', null) === 'landing') || (_.get(this.props, 'pageContext.frontmatter.template', null) === 'blog')) ? (
                     <h1 className={classNames('site-title', {'screen-reader-text': _.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null)})}><Link to={withPrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.title', null)}</Link></h1>
